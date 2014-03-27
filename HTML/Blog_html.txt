@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Blog (Copy)</title>
+	<link href="../CSS/blog.css" rel="stylesheet" type="text/css"/>
+	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200italic' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+	<div class="container">
+		<!--header-->
+		<div class="main-header">
+			<div class="logo">
+				<img id="logo" src="../Images/finch_logo.png" border="0" alt="Image and video hosting by TinyPic">
+			<div class="navigation">
+				<ul id="nav">
+					<li id= "blog">BLOG</li>
+					<li class="navbar-item">ARCHIVES</li>
+					<li class="navbar-item"><a href="../HTML/About.html">ABOUT</a></li>
+					<li class="navbar-item">CONTACT</li>
+				</ul>
+			</div>
+			</div>
+			<div class="header-container">
+				<div class="inner-container">
+					<h1 id="h1-header">Startup Stagnation</h1>
+				</div>
+				<p class="header-text">I examine startups and their impact, in a excerpt from my 
+				<a id="distance" href="../HTML/Blog.html">Distance</a> essay</p>
+				<p id="read-feature-post">READ FEATURE POST</p>
+			</div>
+		</div>
+
+<!--body-->		
+	<div class="wrap">
+		<div class="body-container">
+<!--left column-->
+			<div class="left-col">
+				<h3 class="about">ABOUT</h3>
+				<p>
+					Yo me llamo	<a class="about-link" href="../HTML/Blog.html"> Francisco Inchauste</a>. I'm a designer, writer, and wrangler of smaller versions of myself. I do UX stuff at <a class="about-link" href="../HTML/Blog.html">universalmind</a>. I make nice apps at
+					<a class="about-link" href="../HTML/Blog.html"> simplebots</a>.
+				</p>
+				<p>
+					In a former life I was the UX editor for <a class="about-link" href="../HTML/Blog.html"> Smashing Magazine.</a> You should keep up with me on the <a class="about-link" href="www.twitter.com"> Twitters</a>.
+				</p>
+				<a href="../HTML/Blog.html" class="twitter-follow-button" data-show-count="false">Follow @twitter</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			</div>
+
+<!--center column-->
+			<div class="main-col">
+				<div class="left-main">
+				<h3 class="about">RECENT THOUGHTS</h3>
+				<article class="intro">
+					<h1 class="title">Don't Believe The Hype</h1>
+					<em class="meta">
+						By 
+						<span class="author">Francisco Inchauste</span>
+						 on April 9, 2013
+					</em>
+					<div class="summary">
+						<p>	
+							Last year I helped create an alarm clock app, called 
+							<a href="../HTML/Blog.html">Rise</a>
+							. To our surprise, it received a lot of attention. A lot more than we had ever anticipated. With this kind of attention there are bound to be haters. It just comes with the territory. It's not that I think the app is perfect and there should not be criticism. To the contrary, there are
+							<strong>a lot</strong> of things we have changed that were not even on our radar. Customer feedback has really helped us improve the base product. Listening to customers has made Rise what it is today.
+						</p>
+						<p>
+							That said, we've seen a few of what I call "sniper emails." Those are the kinds of critiques where that individual, or troll, is just angry and wants to inflict the <em>maximum</em> amount of pain from far away. This person doesn't know you and possibly hasn't even really used your product. There is nothing valuable that you can extract from them-and that’s their point. No matter how thick your skin is, it does sting to have someone sucker punch your hard work.
+						</p>
+						<p>
+							However, there was one of these kinds of emails that ended up unintentionally giving me some excellent insight. He (the troll) basically told us what a huge let down the app was and that the other alarm apps were <em>much</em>, much better. He said our app wasn't deserving of the attention that it was getting. The tone was cold and meant to simply strike us down. Normally, I hit delete and move on. But there was one line that stuck with me. He ended it with: <em>"Don't believe the hype."</em>
+						</p>
+						<p>
+							I didn't catch it at first. But then after some thought I realized that that comment was insinuating that we had made this app without talking to anyone; we made it just sitting in our bubble. Then, we released it and were met with media praise. And from only that media feedback we continued to live in our bubble believing we had a great product.
+						</p>
+						<p>
+							He, of course, was dead wrong. The app was a labour of love. We built the kind of product we would like, without much expectation. Wherever I was, I'd ask someone to try it. I user tested at family gatherings, in airports, and waiting rooms. After iterating we reached out to some people online to beta test. They kindly took the time to review it and write feedback. It wasn't all praise-there was confusion with some parts of the app. We learned from it and decided which points to address, keeping the focus on the simple product we set out to make. We continue to get feedback from users today and we listen. Closely.
+						</p>
+						<p>
+							Getting some attention is great, but attention doesn't make a product great; being focused and having a clear vision of what you are making does. I think that believing the hype can be a dangerous thing in building a product and it does happen. Building it for real people and hearing what they have to say is what validates the hype. It's great to get excited about a product or startup idea early on. You need to believe in it first, before anyone else does. That desire is what drives you. But be careful not to get to a place with it where you begin to have a <em>matters</em>. Reflecting on the responses, the feedback that is truly meaningful is an email from a <em>real</em> customer saying they love our alarm app and they can’t wait to go to sleep so they can wake up with it. Or, even someone fairly critiquing it and saying if we tweak something it would make it that much better of an app for them. 
+						</p>
+						<p>
+							The troll ended up giving me some great advice because he made me realize which kind of feedback <em>matters</em>. Reflecting on the responses, the feedback that is truly meaningful is an email from a <em>real</em> customer saying they love our alarm app and they can’t wait to go to sleep so they can wake up with it. Or, even someone fairly critiquing it and saying if we tweak something it would make it that much better of an app for them. 
+						</p>
+						<p>That is the kind of hype I choose to believe.</p>
+					</div>
+				</article>
+				<article class="intro">
+					<h1 class="title">How to Copy Apple</h1>
+					<em class="meta">By <span class="author"> Francisco Inchauste</span> on September 12, 2012</em>
+					<div class="summary">
+						<p>
+							The day after an <a href="../HTML/Blog.html">Apple announcement</a> is full of articles that are office chair quarterbacking the company's decisions and cooking up large pots of claim chowder on its future. Here is my take on what these blogs are saying is in store for the tech giant.
+						</p>
+						<p>
+							Some of the main criticisms I've seen so far are: 1) The Apple <a href="../HTML/Blog.html">launches aren't exciting</a> anymore, 2) Apple is coasting with only incremental improvements (Here is a <a href="../HTML/Blog.html">great parody </a>video where Tim Cook releases "Nothing" to an audience applause), and finally, 3) We're not only in a Post-PC world (that Apple kick started), we're in a Post-Jobs world where the current product "innovation" from Apple is exhaust from his work. 
+						</p>
+						<p>
+							I agree that most of what was shown yesterday is mostly incremental improvements, and that there is a lot of interesting momentum in other areas of technology (that Apple is not involved with... at least to this point). However, I don't think that gives us the entire picture of what is going on. 
+						</p>
+						<p>
+							<a class="continue" href="../HTML/Blog.html" class="more-link">Continue reading</a>
+						</p>
+					</div>
+				</article>
+				<article class="intro">
+					<h1 class="title">Startup Stagnation</h1>
+					<em class="meta">By <span class="author">Francisco Inchauste</span> on August 24, 2012</em>
+					<div class="summary">
+						<p><em>
+							This is an excerpt from my essay in the second issue of <a href="../HTML/Blog.html">Distance</a>, a nice, quarterly publication full of essays on design and technology. If you enjoy thoughtful and smart writing, and being a part of a meaningful conversation, then <a href="../HTML/Blog.html">get it here</a>.
+						</em>
+						<p>
+							We are in an era of planned obsolescence. Factories work feverishly to produce the latest hardware, with <a href="../HTML/Blog.html">a human cost</a> that we've inadvertently built in. And if you aren't involved in a startup of some sort, then what are you doing with your life? The rewards seem within easy reach. Some are even <a href="../HTML/Blog.html">investing in nothing</a>-funding teams without a product in mind yet-in the slim chance it will actually become something. It's the lottery for the technologically savvy-but if played right, whole industries can be redefined, and genuine value can be created for everyone.
+						</p>
+						<p>
+							<a class="continue" href="../HTML/Blog.html" class="more-link">Continue reading</a>
+						</p>
+					</div>
+				</article>
+				<article class="intro">
+					<h1 class="title">Simplicity Isn't Simple</h1>
+					<em class="meta">By <span class="author">Francisco Inchauste</span> on April 26, 2012</em>
+					<div class="summary">
+						<p>
+							Simplicity. It's weaved into conversations about everything from to-do list apps to DVD players. We meet confusion (<a href="../HTML/Blog.html">not the same as complexity</a>) at the door of our design process and turn it away. Confusion isn’t welcome here - although, the sneaky bastard still finds its way into so many products.
+						</p>
+						<p>
+							In the battle against confusion we <a href="../HTML/Blog.html">wrongly quote Einstein</a>, or cite <a href="../HTML/Blog.html">Hick's law</a>. We rattle off abstract statements, like: "lots of choices are bad", "users today are demanding simplification", "less is more". User experience folk (myself included) proselytize for simplification in tweets and blog posts, with very little additional guidance. 
+						</p>
+						<p>
+							It's easy to sit back in your comfy Aeron chair, swiping around on your beautiful fruit company device and tell everyone how wrong they are with their kludgy, confusing products. The talking heads of the design world are great at these blanket statements and quotable nuggets of bullshit. 
+						</p>
+						<p>
+							<a class="continue" href="../HTML/Blog.html" class="more-link">Continue reading</a>
+						</p>
+					</div>
+				</article>
+				<article class="intro">
+					<h1 class="title">Ideas of March</h1>
+					<em class="meta">By <span class="author">Francisco Inchauste</span> on March 16, 2012</em>
+					<div class="summary">
+						<p>
+							The reason I started writing, is because I enjoyed reading blogs. However, it wasn't because they were all good. At a certain point there was a shift from great knowledge and insights being shared, to aggregating pretty things to make a buck. It was insulting to see such little effort put into this garbage and selling it as articles that professional Web designers should read. I decided to <a href="../HTML/Blog.html">speak up</a>.
+						</p>
+						<p>
+							I wrote for a long time. Some things I was proud of, others... not so much. I learned what worked and what bombed. I found that the most successful pieces were the things that <strong>I would want to read</strong>, not just what I thought would be well-received. I carefully researched and reflected on what I wanted to say before even typing a single letter. I wrote hoping that more people would want to see content like that out there - that they would appreciate a thoughtful essay.   
+						</p>
+						<p>And, it happened. </p>
+						<p>After writing for a while I received an opportunity from an all around <a href="../HTML/Blog.html">great guy</a> in our community. He wanted me to edit a new section of his <a href="../HTML/Blog.html">magazine</a>. I had mixed feelings about it. I thought, "what the hell do I know about editing?"" It has been one of the best things I've done.</p>
+						<p>My favorite part is meeting new writers. I honestly don't care who they are "in the industry": They are all fantastic. They bring article ideas that are always so insightful and valuable. They actually crave critiques and have all been very humble and gracious. I feel lucky to have a small part in the creation of the kind of blog posts that <strong>I admire</strong>. </p>
+						<p>Cennydd Bowles wrote a <a href="../HTML/Blog.html">nice article</a> that I think sums up some of the feelings I have about writing. In it, he says: "The best writers are inquisitive readers, just as the best designers are attentive users. We need only look at our terminology to see the parallels: "design vocabulary", "design literacy". So a good writer reads incessantly. Absorb different styles and approaches: quality, trash, everything."</p>
+						<p>I have begun to fall in love with reading online again: From the welcome surge in <a href="../HTML/Blog.html">longform essays</a>, reflections on <a href="../HTML/Blog.html">user experience</a>, to thoughtful musings on <a href="../HTML/Blog.html">technology and design</a>. Reading pushes me to write better. Writing helps me to understand more about design and its place in the world. </p><p>Blogging, for me, is about making better things.</p>
+						<p><em>Note: Thanks to Chris Shiflett for <a href="../HTML/Blog.html">the nudge</a> to blog more. I will do my best.</em></p>
+					</div>
+				</article>
+				<article class="intro">
+					<h1 class="title">What Your Product's Design Says About You</h1>
+					<em class="meta">By <span class="author">Francisco Inchauste</span> on February 21, 2012</em>
+					<div class="summary">
+						<p>In the book, <em>Do You Matter? How Great Design Will Make People Love Your Company</em>, the authors take the reader through a series of car lots while shopping for some new wheels. As we traverse the mishmash of brands, we start to see something: Every product/brand is talking to us with its <strong>design language</strong>.</p>
+						<p>The "Bimmers'"(BMW) with their sporty and sleek profile, the Volvos with their boxy, safe and sturdy design. Every line, curve, and layer, has a purpose. It tells a story about that brand and what it stands for. However, a few of the car brands that the authors look at have a language that is more like the "<a href="../HTML/Blog.html">Tower of Babel</a>"<sup>1</sup>:</p>
+						<blockquote><p>"That model looks kind of like it's pretending to be a BMW, and the one over there is almost an Acura. Another looks a bit like a Mercury, another Toyota-ish, another with shades of Lexus, and so on."</p></blockquote>
+						<p>Sound familiar? This immediately takes me to the period in our cellphone market history that I refer to as, B.I. (Before iPhone). Do you remember what that looked like? The design language for those phones said to me: "I just violently puked out buttons, colors, and features to see what sells." Then along came the iPhone and the entire design language changed. Apple decided that the software was what mattered. As Mike Rundle said <a href="../HTML/Blog.html">in his article</a>, "Every Phone Looks Like the iPhone":</p>
+						<blockquote><p>"Your phone becomes the app that it's running. How many people focus intently on the bezel around the screen while they're using their phone? No one does. You stare at the screen. As technology advances and miniaturizes, everything will get faster and smaller. The hardware will fade away and software will be the only thing people care about."</p></blockquote>
+						<p>The point is not that other smartphones <a href="../HTML/Blog.html">are copying</a>, or have no choice but to <a href="../HTML/Blog.html">implement designs similar</a> to, Apple. I'm saying that the story they are telling about themselves, through their design, is not about them at all. They are talking like Apple does. In the design of these products and sometimes marketing, they are communicating the strengths of someone else's design, not their own. It's not a Tower of Babel, it's a "Tower of Apple." We all know that Apple’s design language is very calculated. So, the obvious problem with trying to follow someone else's design language is that you don't know exactly <em>why</em> you are saying it. And when they change it, the products that follow it lose what little meaning they have.</p>
+						<p>When you design a Website or application - product or service of any kind - you are telling people a variety of things. You are communicating what matters to you (or to your client). You are building the story that will evoke an emotional connection with a customer. Every page on your site is an "about page." If it's not, it should be. </p>
+						<p>People don't want to buy from (or hire) some cold, empty machine. They don't want a list of services or products that came from nowhere. They want something they can connect with. In the case of a car, the customer will identify with it, imagining driving it and showing it to their friends. It will become an extension of them and their personality. For example, if someone buys a new hybrid car, it likely reflects them and tells others that they care/are concerned about the environment.</p>
+						<p><a href="../HTML/Blog.html">Adrian van Hooydonk</a>, is a Dutch designer who is credited with a lot of the design language for BMW starting with the <a href="../HTML/Blog.html">7 Series</a>. He designed it for a specific kind of driver and extended this design across their other lines. Some of those design cues showed up in other car brands as a sort of trend. This obviously happens all the time in digital design.<sup>1</sup> </p>
+						<p>Web/interface design trends explode into life overnight and spread <a href="../HTML/Blog.html">like a wildfire</a>. Using these cues is fine. We know <a href="../HTML/Blog.html">everything is a remix</a> of something that came before. But, before you begin to design, it's important to understand what you are trying to communicate and what you are saying about yourself. Or, if you have an existing product or site, ask: <strong>What is this saying?</strong> You might not like the answer. If it’s a mixture of design languages creating a cacophony of gibberish, then it's probably time to step back and build your own design language.</p>
+						<h2 id="further-reading">Further reading</h2>
+						<p>This post was inspired by an <a href="../HTML/Blog.html">earlier short essay</a> I did and by a section in <a href="../HTML/Blog.html">this book</a>: 1. Robert Brunner, Stewart Emery, <em>Do You Matter? How Great Design Will Make People Love Your Company</em>, FT Press, 2008, pp.156-178.</p>
+					</div>
+				</article>
+				<article class="intro">
+					<h1 class="title">What will our (future) interfaces feel like?</h1>
+					<em class="meta">By <span class="author">Francisco Inchauste</span> on January 27, 2012</em>
+					<div class="summary">
+						<p>The visual language of our interfaces has gone through a lot of changes over the past decade. Remember what the Web 2.0 interfaces felt like? Giant type, ginormous forms, and buttons that would make Fitt's Law insignificant. God forbid you went off task or didn't know exactly what to do next. Icons lined our digital streets (and still do in some parts). Need to cancel something? A big red circle with an "x" is here so you can be sure what it means.</p>
+						<p>These days it's about the content. Design starts with the content. Language is the navigation. The interface is words. We're advised to choose them carefully. Copywriting is now where the interface lives or perishes. We can't trust those devious icons or that friendly, yet somewhat unclear language from the Web 2.0 days - we need to be clear and say exactly what we mean. The three most important things here are: Clarity, clarity, clarity.</p>
+						<blockquote><p>"Nothing says Send Message, like the words "Send Message". You can play with envelopes and arrows all you want. That's not to say that icon-only interfaces are bad. They exchange initial clarity for long term beauty. It’s a choice you sometimes have to make." - <a href="../HTML/Blog.html">Des Traynor</a></p></blockquote>
+						<p>With touchscreen, a lot of these rules change. The new applications I've seen hint at another (potential) stage of how our interfaces might act. One that stands out is <a href="../HTML/Blog.html">Clear</a>. It's a to-do list app designed by <a href="../HTML/Blog.html">Impending</a> and <a href="../HTML/Blog.html">Milen</a>, with <a href="../HTML/Blog.html">Realmac Software</a>. Now, it's not available yet, so I can only go by what I saw in the video - it's all assumptions from this point on. It looks like much of the interface is gestures without labels or icons, lacking any sort of visual affordance. There could be an onboarding for it to help you understand what you can do, but we'll have to see.</p>
+						<p><img src="http://www.getfinch.com/wp-content/uploads/clear1.jpg" alt="Clear" title="Clear" class="alignnone size-full wp-image-659" width="560px"></p>
+						<p>What I find interesting about this interface is that it breaks a lot of our current rules for interfaces. This is the type of interface that I imagine a usability expert would have nightmares about. But it looks fun as heck to use. There is an element of play (no, not "gamification") going on here. Now, in the context of this application, it looks like this will work very well. The limited job this application does for you allows for the lack of language and icons to guide you. According to the designers, it appears their intention was to question many of the current rules of interface design:</p>
+						<blockquote><p>"I think the important thing is to never take anything for granted and question everything - all the known interface design conventions, the cliches and rules of the genre. These are formulas, and to us formulas are just a fancy way of describing the rut you're stuck in." - Phill Ryu, in a <a href="../HTML/Blog.html">Venture Beat interview</a>.</p></blockquote>
+						<p>The biggest problem with gestures is that they look fun to use, but aren't always that great. Swinging your arms around like Tom Cruise in the future looks pretty damn cool, until <a href="../HTML/Blog.html">gorilla arm</a> sets in after doing that for an hour. The usability expert might point out that most users today wouldn't know what the gestures are to navigate without being instructed. And Jakob Nielsen would be somewhat right.</p>
+						<p>But, I don't think that's who this is designed for... or, should I say, <em>when</em> this is designed for. This app feels like an app for the future. One where a toddler today, that has used an iPad her entire life, will be comfortable with it in the future. If some time traveling designer from Web 2.0 created the Clear app, the interface would likely feel very awkward and confining to this next generation of users.</p>
+						<p>I think it's interesting to watch interfaces evolve. Especially moving from what we Web nerds call skeuomorphic interfaces. I don't think our future is trying to manipulate "<a href="../HTML/Blog.html">a picture under glass</a>" of some physical looking thingy. </p>
+						<p>I understand that the gesture-based navigation for the Clear app is still a finger, swiping at things under glass. However, the playfulness and animated elements unraveling are very intriguing to me. It reveals something interesting happening with our interfaces. We're just beginning to figure a lot of things out. As Wilson Miner so eloquently puts it in his <a href="../HTML/Blog.html">Build</a> talk:</p>
+						<blockquote><p>"We're not just making pretty interfaces. We're actually in the process of making an environment where we'll spend most of our time, for the rest of our lives. We're the designers. We're the builders. What do we want that environment to feel like? What do we want to feel like?" - <a href="../HTML/Blog.html" >Wilson Miner</a></p></blockquote>
+					</div>
+				</article>
+				<article class="intro">
+					<h1 class="title">The Mosquito and Steve Jobs</h1>
+					<em class="meta">By <span class="author">Francisco Inchauste</span> on August 25, 2011</em>
+					<div class="summary">
+						<p>** Author's note: This post was written the night after Steve Jobs left Apple. As you know, he passed away less than a month later. I believe that my feelings about the future of Apple have probably changed since then. But not the thoughts on the legacy of Steve. Thanks for reading. **</p>
+						<p>The news was hard to avoid last night. The conjecture on the future of Apple without Jobs steering the ship will go on for longer than I care to pay attention. </p>
+						<p>This is the beginning of Steve Jobs' departure. Apple will never be the same.</p>
+						<p>Most of the sentiment is that people are sad to hear the news and are taking the time to reflect on his career and his impact. However, there are a lot of folks reminding us that Apple, and the talented people there will still be making great things without Steve. As if to say, there are never any star players, it's always a team effort.</p>
+						<p>I think that is a load of politically correct talk, and I disagree. </p>
+						<p>The influence of one person on many others is what makes change happen. Steve has influenced many tipping points. He's taken us into the PC era and right up to the starting line of the post-PC era. Amazing.</p>
+						<blockquote><p><em>"If you think you are too small to make a difference, try sleeping with a mosquito."</em> - Dalai Lama XIV</p></blockquote>
+						<p> <a class="continue" href="../HTML/Blog.html" class="more-link">Continue reading</a></p>
+					</div>
+				</article>
+				<article class="intro">
+					<h1 class="title">It's Not Responsive Web Building, It's Responsive Web Design</h1>
+					<em class="meta">By <span class="author">Francisco Inchauste</span> on August 11, 2011</em>
+					<div class="summary">
+						<p>For an industry that generates probably more buzzwords than any other, we love to pretend to shun them. So, unless you've been living in a cabin in the woods for the last year, you've likely been bashed over the head with this term: Responsive Web Design (RWD).</p>
+						<p>This is the latest in a long line of terms that will eventually spawn thousands of articles, hundreds of books, generate tons of debate within the industry - if it hasn't done so already. Like every new movement within our community this one has its supporters and detractors. Although, the detractors seem to be few and far between.</p>
+						<p class="caption"><img src="http://www.getfinch.com/wp-content/uploads/mediaqueries.jpg" alt="Mediaqueri.es" title="Mediaqueri.es" width="500" height="198" class="alignnone size-full wp-image-526"><br>
+						<em><a href="http://www.mediaqueri.es">Mediaqueri.es</a> - The latest gallery focusing on "Responsive Web Designs"</em></p>
+						<p>I haven't seen the perspective of RWD as much from a UX/design lens, although there have been a handful. We've lived with it for a while, tossed it around, written some how-to posts, tested out some things, and now have a gallery of examples (whether or not they are the "right" examples remains to be seen). It's embedded into our industry and here to stay for a while. <a class="continue" href="../HTML/Blog.html" class="more-link">Continue reading</a></p>
+					</div>
+				</article>
+				<article class="intro">
+					<h1 class="title">Long Live the Redesign</h1>
+					<em class="meta">By <span class="author">Francisco Inchauste</span> on May 19, 2011</em>
+					<div class="summary">
+						<p>In 2005, Cameron Moll wrote an article about something that was as incessant then, as it is now: <strong>The redesign</strong>. </p>
+						<p>In a nutshell, the concept he put forward is: Great designers adjust an existing work with little disruption of the foundational design for a goal or purpose. The end result is a modification to the design that improves the user experience. Good designers, on the other hand, recreate existing work focusing on the aesthetic, with a misunderstood notion that it will always improve it. However they end up disrupting and/or damaging the user's experience making no real impact with the effort.<sup>1</sup> </p>
+						<blockquote><p><em>"Like a kid in a candy store, we creatives redesign like it's the new black. Why do we possess such an insatiable desire to refresh and remake? Why do we thrive on renewal? What tempts us to be seduced by the sway of renaissance?" - </em>Cameron Moll</p></blockquote>
+						<p>His idea that "good designers redesign, great designers realign" seemed to be embraced by many. I say seemed to, because not much has changed since that time. The redesign has continued as an incurable obsession and the realign is a forgotten buzzword of an earlier era. The redesign is the wonder drug of the Web: Bad experience with an app? Give it a new design. Don't like how Craigslist works? Here's a free redesign for you.<br>
+						 <a class="continue" href="../HTML/Blog.html" class="more-link">Continue reading</a></p>
+					</div>
+					<div class="intro"><p>You can find my previous posts <a href="/archives" class="more">in the archives</a></p></div>
+				</article>
+				</div>
+
+
+<!--right column-->
+			<div class="right-col">
+				<div class="right-container">
+					<h3 class="about">SELECTED WRITING</h3>
+						<p class="right-col-item">You Such at Design (Here's Why)</p>
+						<p class="right-col-item">The Creativity Trigger</p>
+						<p class="right-col-item">What Would Jason (Santa Maria) Do?</p>
+						<p class="right-col-item">Avoiding the Uncanny Valley of Interface Design</p>
+						<p class="right-col-item">UX is 90% Desirability</p>
+						<p class="right-col-item">Design is not the Goal</p>
+						<p class="right-col-item">Long Live the Redesign</p>
+					<div class="ads">
+						<img src="http://i43.tinypic.com/rcvynr.png" border="0" alt="Image and video hosting by TinyPic">
+					</div>
+				</div>
+			</div>
+		</div>
+		</div>
+		<!--end body container-->
+
+
+<!--footer-->
+
+<footer class="footer">
+	<div class="footer-inner">
+		<div class="copy">
+			<p>©2014 Francisco Inchauste. <em>Be original</em></p>
+		</div>
+		<ul class="social">
+			<li class="social">Follow me</li>
+			<li class="social">RSS Feed</li>
+		</ul>
+		<div class="license">
+			<a href="../HTML/Blog.html" target="_blank"><img src="http://i40.tinypic.com/168snsk.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+		</div>
+	</div>
+</footer>
+
+</div>
+	<!--end wrap-->	
+</div>
+<!--end container-->
+</body>
+</html>

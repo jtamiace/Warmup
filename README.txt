@@ -1,0 +1,1 @@
+This repo contains code for the first mockup I have done for a website using HTML and CSS. I mimicked getfinch.com and recreated the home page and about page from this website. This project was practice the ability to place elements.
